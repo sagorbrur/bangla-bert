@@ -17,7 +17,7 @@ A long way passed. Here is our **Bangla-Bert**! It is now available in huggingfa
 
 Bangla-Bert-Base is a pretrained language model of Bengali language using mask language modeling described in [BERT](https://arxiv.org/abs/1810.04805) and it's github [repository](https://github.com/google-research/bert)
 
-
+**NB: If you use this model for any nlp task please share evaluation results with us. We will add it here.**
 
 ## Pretrain Corpus Details
 Corpus was downloaded from two main sources:
