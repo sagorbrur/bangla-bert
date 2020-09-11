@@ -38,7 +38,7 @@ sentence 2
 
 ## Building Vocab
 We used [BNLP](https://github.com/sagorbrur/bnlp) package for training bengali sentencepiece model with vocab size 102025. We preprocess the output vocab file as Bert format.
-Our final vocab file availabe at [https://github.com/sagorbrur/bangla-bert](https://github.com/sagorbrur/bangla-bert) and also at [huggingface]() model hub.
+Our final vocab file availabe at [https://github.com/sagorbrur/bangla-bert](https://github.com/sagorbrur/bangla-bert) and also at [huggingface](https://huggingface.co/sagorsarker/bangla-bert-base) model hub.
 
 ## Training Details
 * Bangla-Bert was trained with code provided in Google BERT's github repository (https://github.com/google-research/bert)
