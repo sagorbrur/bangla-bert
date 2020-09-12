@@ -72,8 +72,8 @@ You can use this model directly with a pipeline for masked language modeling:
 ```py
 from transformers import BertForMaskedLM, BertTokenizer, pipeline
 
-model = BertForMaskedLM.from_pretrained("bangla-bert-base")
-tokenizer = BertTokenizer.from_pretrained("bangla-bert-base")
+model = BertForMaskedLM.from_pretrained("sagorsarker/bangla-bert-base")
+tokenizer = BertTokenizer.from_pretrained("sagorsarker/bangla-bert-base")
 nlp = pipeline('fill-mask', model=model, tokenizer=tokenizer)
 for pred in nlp(f"আমি বাংলায় {nlp.tokenizer.mask_token} গাই।"):
   print(pred)
