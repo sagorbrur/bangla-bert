@@ -80,6 +80,7 @@ bnbert_tokenizer.tokenize(text)
 
 
 **MASK Generation**
+
 You can use this model directly with a pipeline for masked language modeling:
 
 ```py
