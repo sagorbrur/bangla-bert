@@ -67,6 +67,19 @@ Loss for final step: 2.426227
 
 
 ## How to Use
+
+**Bangla BERT Tokenizer**
+```py
+from transformers import AutoTokenizer, AutoModel
+
+bnbert_tokenizer = AutoTokenizer.from_pretrained("sagorsarker/bangla-bert-base")
+text = "আমি বাংলায় গান গাই।"
+bnbert_tokenizer.tokenize(text)
+# ['আমি', 'বাংলা', '##য', 'গান', 'গাই', '।']
+```
+
+
+**MASK Generation**
 You can use this model directly with a pipeline for masked language modeling:
 
 ```py
