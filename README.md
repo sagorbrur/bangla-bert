@@ -60,11 +60,11 @@ next_sentence_loss = 0.040997364
 perplexity = numpy.exp(2.2406516) = 9.393331287442784
 Loss for final step: 2.426227
 
-
 ```
 
 **NB: If you use this model for any nlp task please share evaluation results with us. We will add it here.** 
 
+![bertviz](bertviz.gif)
 
 ## How to Use
 
