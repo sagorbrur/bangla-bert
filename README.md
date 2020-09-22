@@ -66,7 +66,7 @@ Loss for final step: 2.426227
 
 Check [Bangla BERT Visualize](https://github.com/sagorbrur/bangla-bert/blob/master/notebook/bangla_bert_viz.ipynb)
 
-![bertviz](bertviz.gif)
+![bertviz](bert_attention_head.gif)
 
 ## How to Use
 
