@@ -1,23 +1,14 @@
----
-language: bn
-tags:
-- bert
-- bengali
-- bengali-lm
-- bangla
-license: mit
-datasets:
-- common_crawl
-- wikipedia
----
-
-
 # Bangla BERT Base
 A long way passed. Here is our **Bangla-Bert**! It is now available in [huggingface](https://huggingface.co/sagorsarker/bangla-bert-base) model hub. 
 
 Bangla-Bert-Base is a pretrained language model of Bengali language using mask language modeling described in [BERT](https://arxiv.org/abs/1810.04805) and it's github [repository](https://github.com/google-research/bert)
 
 **NB: If you use this model for any nlp task please share evaluation results with us. We will add it here.**
+
+## Download Model
+|  | TF Version | Pytorch Version | Vocab |
+| ----- | ------ | ------- | --------|
+| Bangla BERT Base | ----- | [Huggingface Hub](https://huggingface.co/sagorsarker/bangla-bert-base)| [Vocab](https://github.com/sagorbrur/bangla-bert/blob/master/vocab.txt)
 
 ## Pretrain Corpus Details
 Corpus was downloaded from two main sources:
