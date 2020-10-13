@@ -5,6 +5,8 @@ Bangla-Bert-Base is a pretrained language model of Bengali language using mask l
 
 **NB: If you use this model for any nlp task please share evaluation results with us. We will add it here.**
 
+**NB: Paper for Bangla Bert is under development. Any colaborator who want to join please contact. mail: brursagor@gmail.com**
+
 ## Download Model
 |  | TF Version | Pytorch Version | Vocab |
 | ----- | ------ | ------- | --------|
