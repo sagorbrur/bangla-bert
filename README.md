@@ -59,7 +59,7 @@ Loss for final step: 2.426227
 ### Downstream Task Evaluation Results
 Huge Thanks to [Nick Doiron](https://twitter.com/mapmeld) for providing evalution results of classification task.
 He used [Bengali Classification Benchmark](https://github.com/rezacsedu/Classification_Benchmarks_Benglai_NLP) datasets for classification task.
-Comparing to Nick's [Bengali electra](https://huggingface.co/monsoon-nlp/bangla-electra) and multi-lingual BERT, Benglai BERT Base achieves state of the art result.
+Comparing to Nick's [Bengali electra](https://huggingface.co/monsoon-nlp/bangla-electra) and multi-lingual BERT, Bangla BERT Base achieves state of the art result.
 Here is the [evaluation script](https://github.com/sagorbrur/bangla-bert/blob/master/notebook/bangla-bert-evaluation-classification-task.ipynb).
 
 
