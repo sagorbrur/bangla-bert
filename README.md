@@ -65,7 +65,7 @@ Here is the [evaluation script](https://github.com/sagorbrur/bangla-bert/blob/ma
 | ----- | -------------------| ---------------- | --------------- | ------- |
 | mBERT | 68.15 | 52.32 | 72.27 | 64.25 |
 | Bengali Electra | 69.19 | 44.84 | 82.33 | 65.45 |
-| Bangla BERT Base | 70.37 | 71.83 | 89.19 | 77.13 |
+| Bangla BERT Base | **70.37** | **71.83** | **89.19** | **77.13** |
 
 
 
