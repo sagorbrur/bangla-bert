@@ -117,6 +117,19 @@ for pred in nlp(f"আমি বাংলায় {nlp.tokenizer.mask_token} গা
 ## Reference
 * https://github.com/google-research/bert
 
+## Cite
+If you found this model helpful then cite 
+
+```
+@misc{Sagor_2020,
+  title   = {BanglaBERT: Bengali Mask Language Model for Bengali Language Understading},
+  author  = {Sagor Sarker},
+  year    = {2020},
+  url    = {https://github.com/sagorbrur/bangla-bert}
+}
+
+```
+
 
 
 
