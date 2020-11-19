@@ -1,4 +1,5 @@
 # Bangla BERT Base
+
 A long way passed. Here is our **Bangla-Bert**! It is now available in [huggingface](https://huggingface.co/sagorsarker/bangla-bert-base) model hub. 
 
 Bangla-Bert-Base is a pretrained language model of Bengali language using mask language modeling described in [BERT](https://arxiv.org/abs/1810.04805) and it's github [repository](https://github.com/google-research/bert)
@@ -117,7 +118,7 @@ for pred in nlp(f"আমি বাংলায় {nlp.tokenizer.mask_token} গা
 ## Reference
 * https://github.com/google-research/bert
 
-## Cite
+## Citation
 If you find this model helpful then cite 
 
 ```
