@@ -119,7 +119,7 @@ for pred in nlp(f"আমি বাংলায় {nlp.tokenizer.mask_token} গা
 * https://github.com/google-research/bert
 
 ## Citation
-If you find this model helpful then cite 
+As we are writing a paper, present you can cite this model using this citation note.
 
 ```
 @misc{Sagor_2020,
