@@ -59,7 +59,7 @@ Loss for final step: 2.426227
 Huge Thanks to [Nick Doiron](https://twitter.com/mapmeld) for providing evalution results of classification task.
 He used [Bengali Classification Benchmark](https://github.com/rezacsedu/Classification_Benchmarks_Benglai_NLP) datasets for classification task.
 Comparing to Nick's [Bengali electra](https://huggingface.co/monsoon-nlp/bangla-electra) and multi-lingual BERT, Bangla BERT Base achieves state of the art result.
-Here is the [evaluation script](https://github.com/sagorbrur/bangla-bert/blob/master/notebook/bangla-bert-evaluation-classification-task.ipynb).
+Here is the [evaluation script](https://github.com/sagorbrur/bangla-bert/blob/master/notebook/bangla-bert-evaluation-classification-task.ipynb). Check comparison between Bangla-BERT with recent other Bengali BERT [here](https://gist.github.com/mapmeld/cfdfa5604a0b03730b0dbee8c5789f42)
 
 
 | Model | Sentiment Analysis | Hate Speech Task | News Topic Task | Average |
