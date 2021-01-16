@@ -69,6 +69,8 @@ Here is the [evaluation script](https://github.com/sagorbrur/bangla-bert/blob/ma
 | Bangla BERT Base | **70.37** | **71.83** | **89.19** | **77.13** |
 
 
+Also you can check these below paper list. They used this model on their datasets.
+* [arXiv:2012.14353](https://arxiv.org/abs/2012.14353)
 
 
 **NB: If you use this model for any nlp task please share evaluation results with us. We will add it here.** 
