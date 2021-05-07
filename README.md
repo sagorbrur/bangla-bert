@@ -71,7 +71,7 @@ Here is the [evaluation script](https://github.com/sagorbrur/bangla-bert/blob/ma
 
 Also you can check these below paper list. They used this model on their datasets.
 * [arXiv:2012.14353](https://arxiv.org/abs/2012.14353)
-
+* [arxiv:2104.08613](https://arxiv.org/abs/2104.08613)
 
 **NB: If you use this model for any nlp task please share evaluation results with us. We will add it here.** 
 
