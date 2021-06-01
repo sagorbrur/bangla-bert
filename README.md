@@ -56,6 +56,8 @@ Loss for final step: 2.426227
 ```
 
 ### Downstream Task Evaluation Results
+- Evaluation on Bengali Classification Benchmark Datasets
+
 Huge Thanks to [Nick Doiron](https://twitter.com/mapmeld) for providing evalution results of classification task.
 He used [Bengali Classification Benchmark](https://github.com/rezacsedu/Classification_Benchmarks_Benglai_NLP) datasets for classification task.
 Comparing to Nick's [Bengali electra](https://huggingface.co/monsoon-nlp/bangla-electra) and multi-lingual BERT, Bangla BERT Base achieves state of the art result.
@@ -67,6 +69,21 @@ Here is the [evaluation script](https://github.com/sagorbrur/bangla-bert/blob/ma
 | mBERT | 68.15 | 52.32 | 72.27 | 64.25 |
 | Bengali Electra | 69.19 | 44.84 | 82.33 | 65.45 |
 | Bangla BERT Base | **70.37** | **71.83** | **89.19** | **77.13** |
+  
+- Evaluation on [Wikiann](https://huggingface.co/datasets/wikiann) Datasets
+
+We evaluated `Bangla-BERT-Base` with [Wikiann](https://huggingface.co/datasets/wikiann) Bengali NER datasets along with another benchmark three models(mBERT, XLM-R, Indic-BERT). </br>
+`Bangla-BERT-Base` got a third-place where `mBERT` got first and `XML-R` got second place after training these models 5 epochs.
+
+| Base Pre-trained Model | F1 Score | Accuracy |
+| ----- | -------------------| ---------------- |
+| [mBERT-uncased](https://huggingface.co/bert-base-multilingual-uncased) | 97.11 | 97.68 |
+| [XLM-R](https://huggingface.co/xlm-roberta-base) | 96.22 | 97.03 |
+| [Indic-BERT](https://huggingface.co/ai4bharat/indic-bert)| 92.66 | 94.74 |
+| Bangla-BERT-Base | 95.57 | 97.49 |
+
+All four model trained with [transformers-token-classification](https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/token_classification.ipynb) notebook.
+You can find all models evaluation results [here](https://github.com/sagorbrur/bangla-bert/tree/master/evaluations/wikiann)
 
 
 Also you can check these below paper list. They used this model on their datasets.
