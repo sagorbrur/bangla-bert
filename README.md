@@ -86,10 +86,12 @@ All four model trained with [transformers-token-classification](https://colab.re
 You can find all models evaluation results [here](https://github.com/sagorbrur/bangla-bert/tree/master/evaluations/wikiann)
 
 
-Also you can check these below paper list. They used this model on their datasets.
-* [arXiv:2012.14353](https://arxiv.org/abs/2012.14353)
-* [arxiv:2104.08613](https://arxiv.org/abs/2104.08613)
-* [	arXiv:2107.03844](https://arxiv.org/abs/2107.03844)
+Also you can check these below paper list. They evaluated this model on their datasets.
+
+* [DeepHateExplainer: Explainable Hate Speech Detection in Under-resourced Bengali Language](https://arxiv.org/abs/2012.14353)
+* [Emotion Classification in a Resource Constrained Language Using Transformer-based Approach](https://arxiv.org/abs/2104.08613)
+* [A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models](https://arxiv.org/abs/2107.03844)
+* [BanglaBERT: Combating Embedding Barrier in Multilingual Models for Low-Resource Language Understanding](https://arxiv.org/abs/2101.00204)
 
 **NB: If you use this model for any nlp task please share evaluation results with us. We will add it here.** 
 
