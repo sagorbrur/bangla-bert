@@ -36,7 +36,7 @@ Our final vocab file availabe at [https://github.com/sagorbrur/bangla-bert](http
 * Bangla-Bert was trained with code provided in Google BERT's github repository (https://github.com/google-research/bert)
 * Currently released model follows bert-base-uncased model architecture (12-layer, 768-hidden, 12-heads, 110M parameters)
 * Total Training Steps: 1 Million
-* The model was trained on a single Google Cloud TPU 
+* The model was trained on a single Google Cloud GPU
 
 ## Evaluation Results
 
