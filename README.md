@@ -134,7 +134,7 @@ for pred in nlp(f"আমি বাংলায় {nlp.tokenizer.mask_token} গা
 
 ## Acknowledgements
 
-* Thanks to Google [TensorFlow Research Cloud (TFRC)](https://www.tensorflow.org/tfrc) for providing the free TPU credits - thank you!
+* Thanks to Google [TensorFlow Research Cloud (TFRC)](https://www.tensorflow.org/tfrc) for providing the free GPU credits - thank you!
 * Thank to all the people around, who always helping us to build something for Bengali.
 
 ## Reference
