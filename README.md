@@ -91,7 +91,6 @@ Also you can check these below paper list. They evaluated this model on their da
 * [DeepHateExplainer: Explainable Hate Speech Detection in Under-resourced Bengali Language](https://arxiv.org/abs/2012.14353)
 * [Emotion Classification in a Resource Constrained Language Using Transformer-based Approach](https://arxiv.org/abs/2104.08613)
 * [A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models](https://arxiv.org/abs/2107.03844)
-* [BanglaBERT: Combating Embedding Barrier in Multilingual Models for Low-Resource Language Understanding](https://arxiv.org/abs/2101.00204)
 
 **NB: If you use this model for any nlp task please share evaluation results with us. We will add it here.** 
 
