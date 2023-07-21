@@ -144,7 +144,7 @@ If you find this model helpful, please cite this.
 
 ```
 @misc{Sagor_2020,
-  title   = {BanglaBERT: Bengali Mask Language Model for Bengali Language Understading},
+  title   = {BanglaBERT: Bengali Mask Language Model for Bengali Language Understanding},
   author  = {Sagor Sarker},
   year    = {2020},
   url    = {https://github.com/sagorbrur/bangla-bert}
